@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clietn/static/css/main.f4c863e4.css",
+    "main.js": "/clietn/static/js/main.925e68ec.js",
+    "static/media/What-is-Business-Finance.jpg": "/clietn/static/media/What-is-Business-Finance.5335ec3ffb2f029aeb54.jpg",
+    "index.html": "/clietn/index.html",
+    "main.f4c863e4.css.map": "/clietn/static/css/main.f4c863e4.css.map",
+    "main.925e68ec.js.map": "/clietn/static/js/main.925e68ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c863e4.css",
+    "static/js/main.925e68ec.js"
+  ]
+}
